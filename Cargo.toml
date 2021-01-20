@@ -3,6 +3,11 @@ name = "tinyshader"
 version = "0.1.0"
 authors = ["Felipe Costa <felipeagc2@gmail.com>"]
 edition = "2018"
+description = "Rust bindings for tinyshader"
+homepage = "https://github.com/felipeagc/tinyshader-rs"
+repository = "https://github.com/felipeagc/tinyshader-rs"
+license = "MIT"
+categories = ["graphics"]
 
 [dependencies]
 tinyshader-sys = { version = "0.1.0", path = "./tinyshader-sys" }
