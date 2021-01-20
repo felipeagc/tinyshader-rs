@@ -1,0 +1,3 @@
+[submodule "tinyshader-sys/tinyshader"]
+	path = tinyshader-sys/tinyshader
+	url = git@github.com:felipeagc/tinyshader.git
